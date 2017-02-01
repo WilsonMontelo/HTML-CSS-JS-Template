@@ -1,2 +1,2 @@
-# html-css-js-template
+# HTML AND CSS TEMPLATE
 Template Blank HTML
