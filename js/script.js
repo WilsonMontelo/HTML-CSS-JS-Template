@@ -1,4 +1,5 @@
-
-// CODE
+jQuery(document).ready(function($){
+	// CODE
+});
 
 
